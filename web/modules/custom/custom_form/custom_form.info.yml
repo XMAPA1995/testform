@@ -1,0 +1,6 @@
+name: Сгіещь forms
+type: module
+description: 'Custom forms in Drupal 8 .'
+package: Custom
+core: 8.x
+hidden: false

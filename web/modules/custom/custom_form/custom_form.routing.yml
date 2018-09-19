@@ -1,0 +1,7 @@
+custom_form_contribute:
+  path: 'custom-form/contribute'
+  defaults:
+    _form: '\Drupal\custom_form\Form\ContributeForm'
+    _title: 'Custom form page'
+  requirements:
+    _permission: 'access content'
